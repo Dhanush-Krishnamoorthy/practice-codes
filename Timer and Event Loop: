@@ -1,0 +1,7 @@
+console.log("Start");
+
+setTimeout(() => {
+  console.log("Timeout completed after 2000 milliseconds");
+}, 2000);
+
+console.log("End");
